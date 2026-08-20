@@ -1,15 +1,65 @@
-# 💫 About Me:
-Developer, Designer, Teacher in IT. <br>Sono 15 anni che ho scritto il mio primo "Hello World" 🌏
+# Ciao, sono Marius Minia
 
+**Software developer e docente IT.** Creo applicazioni e percorsi formativi con attenzione a UX, accessibilità e qualità del codice.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariusminia)
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+[![Connettiamoci su LinkedIn](https://img.shields.io/badge/Connettiamoci_su_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariusminia/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marius93rm&icon=0&color=8)](https://visitcount.itsvg.in)
+
+## Cosa faccio
+
+- Sviluppo frontend con React e TypeScript.
+- Progetto percorsi di formazione tecnica basati su laboratori, test e progetti completi.
+- Integro nello sviluppo l'esperienza in Swift, Product Design e UX/UI maturata alla Apple Developer Academy.
+
+## Progetti in evidenza
+
+### [learn-react](https://github.com/marius93rm/learn-react)
+
+Corso aziendale React intermedio e avanzato: architettura, stato, performance, form, accessibilità, testing e rilascio.
+
+`React` / `TypeScript` / `Vite` / `Vitest`
+
+### [learn-python](https://github.com/marius93rm/learn-python)
+
+Percorso didattico dai fondamenti a OOP, SOLID, design pattern, TDD, API e analisi dati.
+
+`Python` / `Testing` / `Pandas` / `SQL`
+
+### [learn-csharp](https://github.com/marius93rm/learn-csharp)
+
+Materiale ed esercizi su OOP, programmazione asincrona, TDD, design pattern e microservizi.
+
+`C#` / `.NET` / `xUnit` / `Microservices`
+
+## Focus attuale
+
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%23-24292F?style=flat-square&logo=csharp&logoColor=white) ![Testing e TDD](https://img.shields.io/badge/Testing_%26_TDD-24292F?style=flat-square) ![Accessibilità](https://img.shields.io/badge/Accessibilit%C3%A0-24292F?style=flat-square) ![User Experience](https://img.shields.io/badge/UX-24292F?style=flat-square)
+
+<details>
+<summary><strong>Altri linguaggi e strumenti</strong></summary>
+
+### Linguaggi e runtime
+
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-24292F?style=flat-square&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-24292F?style=flat-square&logo=swift&logoColor=white)
+
+### Web e mobile
+
+![HTML5](https://img.shields.io/badge/HTML5-24292F?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-24292F?style=flat-square&logo=css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-24292F?style=flat-square&logo=express&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-24292F?style=flat-square&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-24292F?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Dati
+
+![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-24292F?style=flat-square&logo=pandas&logoColor=white)
+
+### Design
+
+![Sketch](https://img.shields.io/badge/Sketch-24292F?style=flat-square&logo=sketch&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-24292F?style=flat-square&logo=adobelightroom&logoColor=white)
+
+</details>
+
+## Percorso
+
+- Attività freelance e formazione IT per realtà e istituzioni diverse.
+- Apple Developer Academy presso l'Università degli Studi di Napoli Federico II (2019-2020): Swift, sviluppo iOS/macOS, Product Design e UX/UI.
+- Apple Teacher dal 2020.
+- Lingue: italiano madrelingua, inglese professionale e romeno di base.
