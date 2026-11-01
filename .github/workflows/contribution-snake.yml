@@ -1,0 +1,53 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribution-snake.yml'
+      - 'scripts/static-snake.mjs'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+
+      - name: Generate light and dark snakes from real contributions
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: marius93rm
+          outputs: |
+            assets/contributions/snake.svg?palette=github-light&color_snake=%23238636
+            assets/contributions/snake-dark.svg?palette=github-dark&color_snake=%2339d353
+
+      - name: Generate reduced-motion alternatives
+        run: node scripts/static-snake.mjs
+
+      - name: Commit updated contribution images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contributions/snake.svg assets/contributions/snake-dark.svg assets/contributions/snake-static.svg assets/contributions/snake-static-dark.svg
+          if git diff --cached --quiet; then
+            echo 'Contribution images are unchanged.'
+            exit 0
+          fi
+          git commit -m 'chore: update contribution snake'
+          git push origin HEAD:main
